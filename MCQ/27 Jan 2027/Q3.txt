@@ -1,0 +1,5 @@
+Answer:
+12th
+
+Question:
+In a queue of students facing north, Ayesha and Anisha are standing at the 10th and 8th position from the left and right end respectively. If another student Ariva who is 12th from the left end is exactly in between Ayesha and Anisha then find the position of Ayesha from the right end?
