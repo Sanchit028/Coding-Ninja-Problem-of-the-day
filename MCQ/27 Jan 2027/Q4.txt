@@ -1,0 +1,9 @@
+Answer:
+Error
+
+Question:
+What will be the output of the following code?
+
+s="abcd"
+s[0]='c'
+print(s)
