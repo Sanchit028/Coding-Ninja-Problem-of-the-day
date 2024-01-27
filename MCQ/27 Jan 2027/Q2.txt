@@ -1,0 +1,5 @@
+Answer:
+Java Development Kit
+
+Question:
+What does JDK stand for?
