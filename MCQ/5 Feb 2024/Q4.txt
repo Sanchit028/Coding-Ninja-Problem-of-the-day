@@ -1,0 +1,5 @@
+Ans-
+False
+
+Question:
+A while loop in java executes the statements at least once even the condition is not satisfied.
