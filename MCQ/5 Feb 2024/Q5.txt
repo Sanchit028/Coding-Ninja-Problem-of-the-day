@@ -1,0 +1,5 @@
+Ans-
+javac -d . class_name
+
+Question:
+Which of the following commands is used to compile a package?
