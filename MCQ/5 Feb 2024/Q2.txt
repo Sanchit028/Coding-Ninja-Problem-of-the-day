@@ -1,0 +1,5 @@
+Ans-
+True
+
+Question-
+State true or false: Wait die scheme is a non-preemptive technique (gate)
