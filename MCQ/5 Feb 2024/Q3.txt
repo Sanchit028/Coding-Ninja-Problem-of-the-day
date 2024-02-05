@@ -1,0 +1,5 @@
+Ans-
+class student{int a; public: void disp(){ cout<<a;} };
+
+Question:
+The concept of Encapsulation is best shown by :-
